@@ -38,7 +38,7 @@ class Library:
             self.file.write(f"{updated_book}\n")
         print("*** Book removed ***")
 
-# Create an object named "lib" with "Library" class
+# Created an object named "lib" with "Library" class
 lib = Library()
 
 print("♦♦♦♦♦♦♦ WELCOME TO THE  LIBRARY ♦♦♦♦♦♦♦\n")
